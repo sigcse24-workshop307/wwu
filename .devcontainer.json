@@ -1,0 +1,9 @@
+{
+  "image": "docker.io/openjdk:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["vscjava.vscode-java-pack"],
+      "settings": { "workbench.colorTheme": "Solarized Dark" }
+    }
+  }
+}
